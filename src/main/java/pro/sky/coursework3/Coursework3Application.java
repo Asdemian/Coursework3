@@ -1,8 +1,9 @@
 package pro.sky.coursework3;
 
+import io.swagger.v3.oas.annotations.OpenAPIDefinition;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+@OpenAPIDefinition
 @SpringBootApplication
 public class Coursework3Application {
 
